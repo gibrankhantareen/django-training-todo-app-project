@@ -2,3 +2,5 @@ Requirements: Django TO-DO Example
 1. A Basic "to-do" app
 2. User must be able to create his tasks
 3. User must be able to click on tasks to mark them DONE and Undone
+
+__________________________________
