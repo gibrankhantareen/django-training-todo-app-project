@@ -10,4 +10,4 @@ There is anoher repository where I am uploading my other Projects and learnings.
 
 ## Feedback
 
-If you have any feedback, please reach out to me at gibrankhantareen@gmail.com
+If you have any feedback, please reach out to me at gibrantareen@gmail.com
